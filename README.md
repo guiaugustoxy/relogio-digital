@@ -8,7 +8,7 @@ Criei um Relógio Digital, utilizando HTML, CSS e Javascript
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTM
+- HTML
 - CSS
 - JavaScript
 
